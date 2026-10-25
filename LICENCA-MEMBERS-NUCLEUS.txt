@@ -1,0 +1,28 @@
+LICENÇA DE USO — MEMBERS NUCLEUS
+
+Este software foi entregue a você como membro do Members Nucleus.
+O código continua sendo propriedade do fornecedor. Como membro, você recebe a
+permissão de uso descrita abaixo.
+
+VOCÊ PODE
+- Instalar e usar no seu negócio.
+- Personalizar à vontade: marca, cores, textos, campos, telas e fluxos.
+- Usar comercialmente: vender os seus produtos e serviços com ele.
+- Implantar e personalizar para os seus clientes, cobrando pelo seu serviço.
+- Contratar um desenvolvedor para instalar ou personalizar por você.
+
+VOCÊ NÃO PODE
+- Revender, redistribuir, publicar ou compartilhar este código-fonte, original
+  ou modificado, como um produto seu (por exemplo, vender o ZIP ou o repositório).
+- Remover este arquivo de licença.
+
+SUPORTE E ATUALIZAÇÕES
+- Suporte de instalação e aulas de uso e de venda: na área de membros Members Nucleus.
+- Atualizações do projeto: 12 meses a partir da compra, publicadas na área de membros.
+
+REEMBOLSO
+- 7 dias pela Cakto. Ao pedir reembolso, você se compromete a apagar este código
+  e todas as cópias.
+
+As dependências de terceiros mantêm as respectivas licenças.
+Dúvidas: suporte da área de membros Members Nucleus.
